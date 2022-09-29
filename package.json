@@ -1,0 +1,17 @@
+{
+  "name": "modulosjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./contabilidad.js"
+  },
+  "keywords": [
+    "Javascript",
+    "ecmascript"
+  ],
+  "author": "Laura Juliana Ruiz",
+  "license": "ISC",
+  "type": "module"
+}
