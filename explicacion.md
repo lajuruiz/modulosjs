@@ -31,10 +31,6 @@ se puede dejar o eliminar ya que no hace nada.
 start : Se suele usar para tareas de inicio del proyecto. Se puede arrancar con npm start.
 comando: npm run start
 
-
-
-
-
 NOTAS:
 https://www.npmjs.com/  -- crear una cuenta 
 importante en los scripts que son la forma como yo puedo ejecutar el codigo

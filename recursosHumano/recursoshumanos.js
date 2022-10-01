@@ -4,7 +4,6 @@ class RecursosHumanos {
         console.log("Iniciando Modulo de Recursos Humanos")
     }
 }
-
 export const JuegosRifasEspectaculos = {
     gastos: 5000
 }
