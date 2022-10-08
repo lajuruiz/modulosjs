@@ -18,9 +18,9 @@ class Contabilidad {
 
     reporteContabilidad() {
         return "Reporte Contabilidad " + reporteGerencia();
-    }
+    }s
 } 
 
-let x = new Contabilidad()
-console.log(x.reporteDeGastos())
+let moduloContabilidad = new Contabilidad()
+console.log(moduloContabilidad.reporteDeGastos())
 export default Contabilidad;
